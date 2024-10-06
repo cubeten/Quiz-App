@@ -1,5 +1,5 @@
 [
-
+    // Air brakes
     {
         "question": "What is the primary function of the compressor in an air brake system?",
         "options": [
@@ -290,6 +290,9 @@
         ],
         "correctAnswer": 1
     },
+
+    //Electronics and Electrical
+    
     {
         "question": "What is the primary function of a battery in a heavy equipment electrical system?",
         "options": [
@@ -590,6 +593,9 @@
         ],
         "correctAnswer": 1
     },
+
+    //Hydraulics
+
     {
         "question": "What is the primary function of hydraulic fluid in a hydraulic system?",
         "options": [
@@ -890,6 +896,9 @@
         ],
         "correctAnswer": 1
     },
+
+    //SUSPENSIONS, WHEELS AND SYSTEMS
+
     {
         "question": "What is the primary function of a suspension system in heavy equipment?",
         "options": [
@@ -1180,6 +1189,9 @@
         ],
         "correctAnswer": 1
     },
+
+    //Standard Workplace Safety, Materials, and Tools
+
     {
         "question": "What is the primary purpose of a workplace safety program in a heavy equipment maintenance shop?",
         "options": [
